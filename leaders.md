@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Arshan Dabirsiaghi](mailto:Arshan.dabirsiaghi@owasp.org)
+* [Ryan Dens](mailto:Ryan.dens@owasp.org)
